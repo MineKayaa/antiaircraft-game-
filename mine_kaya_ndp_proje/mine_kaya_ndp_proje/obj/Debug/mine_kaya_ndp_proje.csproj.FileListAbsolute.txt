@@ -1,0 +1,28 @@
+c:\users\khayyam\documents\visual studio 2015\Projects\mine_kaya_ndp_proje\mine_kaya_ndp_proje\bin\Debug\mine_kaya_ndp_proje.exe.config
+c:\users\khayyam\documents\visual studio 2015\Projects\mine_kaya_ndp_proje\mine_kaya_ndp_proje\bin\Debug\mine_kaya_ndp_proje.exe
+c:\users\khayyam\documents\visual studio 2015\Projects\mine_kaya_ndp_proje\mine_kaya_ndp_proje\bin\Debug\mine_kaya_ndp_proje.pdb
+c:\users\khayyam\documents\visual studio 2015\Projects\mine_kaya_ndp_proje\mine_kaya_ndp_proje\obj\Debug\mine_kaya_ndp_proje.csprojResolveAssemblyReference.cache
+c:\users\khayyam\documents\visual studio 2015\Projects\mine_kaya_ndp_proje\mine_kaya_ndp_proje\obj\Debug\mine_kaya_ndp_proje.Form1.resources
+c:\users\khayyam\documents\visual studio 2015\Projects\mine_kaya_ndp_proje\mine_kaya_ndp_proje\obj\Debug\mine_kaya_ndp_proje.Properties.Resources.resources
+c:\users\khayyam\documents\visual studio 2015\Projects\mine_kaya_ndp_proje\mine_kaya_ndp_proje\obj\Debug\mine_kaya_ndp_proje.csproj.GenerateResource.Cache
+c:\users\khayyam\documents\visual studio 2015\Projects\mine_kaya_ndp_proje\mine_kaya_ndp_proje\obj\Debug\mine_kaya_ndp_proje.exe
+c:\users\khayyam\documents\visual studio 2015\Projects\mine_kaya_ndp_proje\mine_kaya_ndp_proje\obj\Debug\mine_kaya_ndp_proje.pdb
+C:\Users\Mine Kaya\Desktop\mine_kaya_ndp_proje\mine_kaya_ndp_proje\bin\Debug\mine_kaya_ndp_proje.exe.config
+C:\Users\Mine Kaya\Desktop\mine_kaya_ndp_proje\mine_kaya_ndp_proje\obj\Debug\mine_kaya_ndp_proje.exe
+C:\Users\Mine Kaya\Desktop\mine_kaya_ndp_proje\mine_kaya_ndp_proje\obj\Debug\mine_kaya_ndp_proje.pdb
+C:\Users\Mine Kaya\Desktop\mine_kaya_ndp_proje\mine_kaya_ndp_proje\bin\Debug\mine_kaya_ndp_proje.exe
+C:\Users\Mine Kaya\Desktop\mine_kaya_ndp_proje\mine_kaya_ndp_proje\bin\Debug\mine_kaya_ndp_proje.pdb
+C:\Users\Mine Kaya\Desktop\mine_kaya_ndp_proje\mine_kaya_ndp_proje\obj\Debug\mine_kaya_ndp_proje.csprojResolveAssemblyReference.cache
+C:\Users\Mine Kaya\Desktop\mine_kaya_ndp_proje\mine_kaya_ndp_proje\obj\Debug\mine_kaya_ndp_proje.Form1.resources
+C:\Users\Mine Kaya\Desktop\mine_kaya_ndp_proje\mine_kaya_ndp_proje\obj\Debug\mine_kaya_ndp_proje.Properties.Resources.resources
+C:\Users\Mine Kaya\Desktop\mine_kaya_ndp_proje\mine_kaya_ndp_proje\obj\Debug\mine_kaya_ndp_proje.csproj.GenerateResource.Cache
+C:\Users\Name\Desktop\projects\ndp\mine_kaya_ndp_proje\mine_kaya_ndp_proje\bin\Debug\mine_kaya_ndp_proje.exe.config
+C:\Users\Name\Desktop\projects\ndp\mine_kaya_ndp_proje\mine_kaya_ndp_proje\bin\Debug\mine_kaya_ndp_proje.exe
+C:\Users\Name\Desktop\projects\ndp\mine_kaya_ndp_proje\mine_kaya_ndp_proje\bin\Debug\mine_kaya_ndp_proje.pdb
+C:\Users\Name\Desktop\projects\ndp\mine_kaya_ndp_proje\mine_kaya_ndp_proje\obj\Debug\mine_kaya_ndp_proje.csprojAssemblyReference.cache
+C:\Users\Name\Desktop\projects\ndp\mine_kaya_ndp_proje\mine_kaya_ndp_proje\obj\Debug\mine_kaya_ndp_proje.Form1.resources
+C:\Users\Name\Desktop\projects\ndp\mine_kaya_ndp_proje\mine_kaya_ndp_proje\obj\Debug\mine_kaya_ndp_proje.Properties.Resources.resources
+C:\Users\Name\Desktop\projects\ndp\mine_kaya_ndp_proje\mine_kaya_ndp_proje\obj\Debug\mine_kaya_ndp_proje.csproj.GenerateResource.cache
+C:\Users\Name\Desktop\projects\ndp\mine_kaya_ndp_proje\mine_kaya_ndp_proje\obj\Debug\mine_kaya_ndp_proje.csproj.CoreCompileInputs.cache
+C:\Users\Name\Desktop\projects\ndp\mine_kaya_ndp_proje\mine_kaya_ndp_proje\obj\Debug\mine_kaya_ndp_proje.exe
+C:\Users\Name\Desktop\projects\ndp\mine_kaya_ndp_proje\mine_kaya_ndp_proje\obj\Debug\mine_kaya_ndp_proje.pdb
